@@ -1,0 +1,4 @@
+fontname "CPMono_v07 Plain:pixelsize=13"
+bind-key M-p dmenu_run
+bind-key M-q quit
+bind-key M-n window-snap-right
